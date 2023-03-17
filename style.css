@@ -1,4 +1,12 @@
 header{
     background-image: url(images/bread_background_sodertugg.png);
-    height: 5em;
+    background-size: cover;
+    background-position: center;
+    height:40em;
+}
+
+.icon{
+    height: 1em;
+    margin-left:.3em;
+    margin-right:.3em;
 }
