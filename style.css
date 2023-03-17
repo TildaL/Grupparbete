@@ -1,3 +1,23 @@
+/* --- Global styles ---  */
+
+body{
+     margin: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* --- Typography --- */
+
+h3{
+    font-family: 'Antonio', sans-serif;
+}
+
+ ul li {
+   list-style-type: none;
+}
+
+/* --- Layout --- */
+
 header{
     background-image: url(images/bread_background_sodertugg.png);
     background-size: cover;
@@ -15,4 +35,6 @@ footer{
     background-color: #1E1F21;
     color: #fff;
 }
+
+
 
